@@ -1,0 +1,11 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/me/Workspace/GitHub/VHDL/Test_VSCode'
+rm -rf simulation
+ 
+mkdir -p simulation
+docker run --rm -v /Users/me/Workspace/GitHub/VHDL/Test_VSCode:/work -w /work jimtremblay/ghdl-ubuntu make compile TESTBENCH=count
+mv count_tb simulation/count_tb
+simulation/count_tb --stop-time=500ns --vcdgz=simulation/count_tb.vcdgz
+gunzip --stdout simulation/count_tb.vcdgz | gtkwave --vcd
+make: Leaving directory `/Users/me/Workspace/GitHub/VHDL/Test_VSCode'
+ 
