@@ -1,0 +1,10 @@
+14:56:19 **** Build of configuration Debug for project xaxidma_example_simple_poll_1_system ****
+make all 
+Generating bif file for the system project
+Executing command '::scw::generate_bif -xpfm /home/me/Workspace/Hardware/Vitis/DMA_Loop/DMA_Test/export/DMA_Test/DMA_Test.xpfm -domains standalone_domain -bifpath /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1_system/Debug/system.bif' on XSCT
+sdcard_gen --xpfm /home/me/Workspace/Hardware/Vitis/DMA_Loop/DMA_Test/export/DMA_Test/DMA_Test.xpfm --sys_config DMA_Test --bif /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1_system/Debug/system.bif --bitstream /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1/_ide/bitstream/design_1_wrapper.bit --elf /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1/Debug/xaxidma_example_simple_poll_1.elf,psu_cortexa53_0
+creating BOOT.BIN using /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1/_ide/bitstream/design_1_wrapper.bit
+Running /tools/Xilinx/Vitis/2021.2/bin/bootgen -arch zynqmp -image /home/me/Workspace/Hardware/Vitis/DMA_Loop/xaxidma_example_simple_poll_1_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+14:56:25 Build Finished (took 5s.167ms)
+

@@ -1,0 +1,196 @@
+2022-04-23T12:38:47.7556300255-12:38:47 **** Clean-only build of project design_1_wrapper ****
+000-buildplatform.sh 35927 design_1_wrapper clean 
+000-XSDB Server Channel: tcfchan#1
+000-Reading the platform  : "design_1_wrapper"
+000-Cleaning the zynqmp_fsbl application.
+000-rm -rf  psu_init.o  xfsbl_authentication.o  xfsbl_board.o  xfsbl_bs.o  xfsbl_csu_dma.o  xfsbl_ddr_init.o  xfsbl_dfu_util.o  xfs
+000-bl_handoff.o  xfsbl_hooks.o  xfsbl_image_header.o  xfsbl_initialization.o  xfsbl_main.o  xfsbl_misc.o  xfsbl_misc_drivers.o  xf
+000-sbl_nand.o  xfsbl_partition_load.o  xfsbl_plpartition_valid.o  xfsbl_qspi.o  xfsbl_rsa_sha.o  xfsbl_sd.o  xfsbl_tpm.o  xfsbl_tp
+000-m_util.o  xfsbl_usb.o  xfsbl_exit.o  xfsbl_translation_table.o zynqmp_fsbl_bsp/psu_cortexa53_0/lib/libxil.a fsbl_a53.elf *.o
+000-
+000-Cleaning the zynqmp_fsbl application, bsp
+000-make -C psu_cortexa53_0/libsrc/avbuf_v2_5/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/axipmon_v6_9/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/clockps_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_8/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v2_0/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/csudma_v1_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/dpdma_v1_4/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/dppsu_v1_5/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/emacps_v3_15/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/gpiops_v3_9/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/iicps_v3_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ipipsu_v2_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/pciepsu_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/qspipsu_v1_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/resetps_v1_4/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/rtcpsu_v1_11/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/scugic_v4_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/sdps_v3_13/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/standalone_v7_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_7/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ttcps_v3_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/uartps_v3_11/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/usbpsu_v1_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/video_common_v4_12/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/xilffs_v4_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/xilpm_v3_5/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/xilsecure_v4_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/zdma_v1_13/src -s clean 
+000-
+000-rm -f psu_cortexa53_0/lib/libxil.a
+000-
+000-Cleaning the zynqmp_pmufw application.
+000-rm -rf  idle_hooks.o  pm_binding.o  pm_callbacks.o  pm_clock.o  pm_config.o  pm_core.o  pm_csudma.o  pm_ddr.o  pm_extern.o  pm_
+000-gic_proxy.o  pm_gpp.o  pm_hooks.o  pm_ioctl.o  pm_master.o  pm_mmio_access.o  pm_node.o  pm_node_reset.o  pm_notifier.o  pm_per
+000-iph.o  pm_pinctrl.o  pm_pll.o  pm_power.o  pm_proc.o  pm_qspi.o  pm_requirement.o  pm_reset.o  pm_slave.o  pm_sram.o  pm_system
+000-.o  pm_usb.o  xpfw_aib.o  xpfw_core.o  xpfw_error_manager.o  xpfw_events.o  xpfw_interrupts.o  xpfw_ipi_manager.o  xpfw_main.o 
+000- xpfw_mod_common.o  xpfw_mod_dap.o  xpfw_mod_em.o  xpfw_mod_extwdt.o  xpfw_mod_legacy.o  xpfw_mod_overtemp.o  xpfw_mod_pm.o  xp
+000-fw_mod_rpu.o  xpfw_mod_rtc.o  xpfw_mod_sched.o  xpfw_mod_stl.o  xpfw_module.o  xpfw_mod_ultra96.o  xpfw_mod_wdt.o  xpfw_platfor
+000-m.o  xpfw_resets.o  xpfw_restart.o  xpfw_rom_interface.o  xpfw_scheduler.o  xpfw_user_startup.o  xpfw_util.o  xpfw_xpu.o  xpfw_
+000-start.o zynqmp_pmufw_bsp/psu_pmu_0/lib/libxil.a pmufw.elf *.o
+000-
+000-Cleaning the zynqmp_pmufw application, bsp
+000-make -C psu_pmu_0/libsrc/avbuf_v2_5/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/axipmon_v6_9/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/clockps_v1_3/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/cpu_v2_14/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/csudma_v1_10/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/ddrcpsu_v1_3/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/dpdma_v1_4/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/dppsu_v1_5/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/emacps_v3_15/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/gpiops_v3_9/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/iicps_v3_14/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/ipipsu_v2_10/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/pciepsu_v1_3/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/qspipsu_v1_14/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/resetps_v1_4/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/rtcpsu_v1_11/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/sdps_v3_13/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/standalone_v7_6/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/sysmonpsu_v2_7/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/ttcps_v3_14/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/uartps_v3_11/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/usbpsu_v1_10/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/video_common_v4_12/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/xilfpga_v6_1/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/xilsecure_v4_6/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/xilskey_v7_2/src -s clean 
+000-
+000-make -C psu_pmu_0/libsrc/zdma_v1_13/src -s clean 
+000-
+000-rm -f psu_pmu_0/lib/libxil.a
+000-
+000-Cleaning the BSP for domain  - standalone_domain
+000-make -C psu_cortexa53_0/libsrc/avbuf_v2_5/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/axipmon_v6_9/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/clockps_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_8/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v2_0/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/csudma_v1_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/dpdma_v1_4/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/dppsu_v1_5/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/emacps_v3_15/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/gpiops_v3_9/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/iicps_v3_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ipipsu_v2_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/pciepsu_v1_3/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/qspipsu_v1_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/resetps_v1_4/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/rtcpsu_v1_11/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/scugic_v4_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/sdps_v3_13/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/standalone_v7_6/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_7/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/ttcps_v3_14/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/uartps_v3_11/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/usbpsu_v1_10/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/video_common_v4_12/src -s clean 
+000-
+000-make -C psu_cortexa53_0/libsrc/zdma_v1_13/src -s clean 
+000-
+000-rm -f psu_cortexa53_0/lib/libxil.a
+000-
+00255-
+12:38:55 Build Finished (took 7s.372ms)
+

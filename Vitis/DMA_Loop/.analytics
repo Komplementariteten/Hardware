@@ -1,0 +1,11 @@
+timestamp=[2022-04-23 14:35:46], mode=WORKBENCH_START, duration=0:00:02.717, duration_ms=2717, data={}
+timestamp=[2022-04-23 14:35:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.022, duration_ms=22, data={}
+timestamp=[2022-04-23 14:35:47], mode=WORKBENCH_UI_INIT, duration=0:00:00.253, duration_ms=253, data={editors_count=2, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-04-23 14:37:02], mode=PLATFORM_CREATION, duration=0:00:09.999, duration_ms=9999, data={platform_source=dsa, os=standalone, processor=psu_cortexa53, platform=null}
+timestamp=[2022-04-23 14:37:38], mode=APP_CREATION, duration=0:00:07.712, duration_ms=7712, data={name=xaxidma_example_simple_poll_1, project_type=sdk, os=standalone, processor=cortex-a53, runtime=C/C++, platform=DMA_Test, application_type=application}
+timestamp=[2022-04-23 14:40:08], mode=PLATFORM_GENERATION, duration=0:00:18.979, duration_ms=18979, data={name=DMA_Test}
+timestamp=[2022-04-23 14:40:14], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=xaxidma_example_simple_poll_1, configuration=Debug, clean_build=false}
+timestamp=[2022-04-23 14:42:10], mode=BUILD, duration=0:00:00.168, duration_ms=168, data={name=xaxidma_example_simple_poll_1, configuration=Debug, clean_build=false}
+timestamp=[2022-04-23 14:42:24], mode=BUILD, duration=0:00:00.167, duration_ms=167, data={name=xaxidma_example_simple_poll_1, configuration=Debug, clean_build=false}
+timestamp=[2022-04-23 14:56:19], mode=BUILD, duration=0:00:00.166, duration_ms=166, data={name=xaxidma_example_simple_poll_1, configuration=Debug, clean_build=false}
+timestamp=[2022-04-23 14:56:25], mode=BUILD, duration=0:00:05.173, duration_ms=5173, data={name=xaxidma_example_simple_poll_1_system, configuration=Debug, clean_build=false}

@@ -1,0 +1,9 @@
+18:34:17 **** Incremental Build of configuration Debug for project hallo_system ****
+make all 
+Generating bif file for the system project
+Executing command '::scw::generate_bif -xpfm /home/me/Workspace/Hardware/Vitis/HelloWorld/design_1_wrapper_1/export/design_1_wrapper_1/design_1_wrapper_1.xpfm -domains standalone_psu_cortexa53_0 -bifpath /home/me/Workspace/Hardware/Vitis/HelloWorld/hallo_system/Debug/system.bif' on XSCT
+sdcard_gen --xpfm /home/me/Workspace/Hardware/Vitis/HelloWorld/design_1_wrapper_1/export/design_1_wrapper_1/design_1_wrapper_1.xpfm --sys_config design_1_wrapper_1 --bif /home/me/Workspace/Hardware/Vitis/HelloWorld/hallo_system/Debug/system.bif --no_bitstream --elf /home/me/Workspace/Hardware/Vitis/HelloWorld/hallo/Debug/hallo.elf,psu_cortexa53_0
+Running /tools/Xilinx/Vitis/2021.2/bin/bootgen -arch zynqmp -image /home/me/Workspace/Hardware/Vitis/HelloWorld/hallo_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+18:34:22 Build Finished (took 5s.17ms)
+

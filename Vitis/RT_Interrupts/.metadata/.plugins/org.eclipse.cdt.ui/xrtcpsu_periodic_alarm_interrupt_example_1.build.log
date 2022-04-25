@@ -1,0 +1,21 @@
+18:12:11 **** Build of configuration Debug for project xrtcpsu_periodic_alarm_interrupt_example_1 ****
+make all 
+Building file: ../src/xrtcpsu_periodic_alarm_interrupt_example.c
+Invoking: ARM v8 gcc compiler
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xrtcpsu_periodic_alarm_interrupt_example.o" -I/home/me/Workspace/Hardware/Vitis/RT_Interrupts/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/bspinclude/include -MMD -MP -MF"src/xrtcpsu_periodic_alarm_interrupt_example.d" -MT"src/xrtcpsu_periodic_alarm_interrupt_example.o" -o "src/xrtcpsu_periodic_alarm_interrupt_example.o" "../src/xrtcpsu_periodic_alarm_interrupt_example.c"
+Finished building: ../src/xrtcpsu_periodic_alarm_interrupt_example.c
+ 
+Building target: xrtcpsu_periodic_alarm_interrupt_example_1.elf
+Invoking: ARM v8 gcc linker
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L/home/me/Workspace/Hardware/Vitis/RT_Interrupts/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/bsplib/lib -o "xrtcpsu_periodic_alarm_interrupt_example_1.elf" ./src/xrtcpsu_periodic_alarm_interrupt_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: xrtcpsu_periodic_alarm_interrupt_example_1.elf
+ 
+Invoking: ARM v8 Print Size
+aarch64-none-elf-size xrtcpsu_periodic_alarm_interrupt_example_1.elf  |tee "xrtcpsu_periodic_alarm_interrupt_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39500	   5208	  20804	  65512	   ffe8	xrtcpsu_periodic_alarm_interrupt_example_1.elf
+Finished building: xrtcpsu_periodic_alarm_interrupt_example_1.elf.size
+ 
+
+18:12:11 Build Finished (took 162ms)
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="xaxidma_example_simple_poll_1" location="/home/me/Workspace/Hardware/Vitis/EEPROM_I2C/xaxidma_example_simple_poll_1" platform="/home/me/Workspace/Hardware/Vitis/EEPROM_I2C/design_1_wrapper_1/export/design_1_wrapper_1/design_1_wrapper_1.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="xaxidma_example_simple_poll_1_system" sysConfig="design_1_wrapper_1" runtime="C/C++" cpu="standalone_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="fe273e63a2cb99f4709eb0be36786fc2">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1143171770" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1953852714" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

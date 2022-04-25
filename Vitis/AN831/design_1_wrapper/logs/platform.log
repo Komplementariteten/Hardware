@@ -1,0 +1,2209 @@
+TRACE::2022-04-23.18:07:38::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:38::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:38::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:38::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:38::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:38::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:38::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-04-23.18:07:41::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-04-23.18:07:41::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2022-04-23.18:07:41::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-04-23.18:07:41::SCWDomain::checking for install qemu data   : 
+TRACE::2022-04-23.18:07:41::SCWDomain:: Using the QEMU Data from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/
+TRACE::2022-04-23.18:07:41::SCWDomain:: Using the QEMU args  from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt
+TRACE::2022-04-23.18:07:41::SCWDomain:: Using the PMUQEMU args from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:41::SCWPlatform::Boot application domain added for zynqmp_fsbl
+TRACE::2022-04-23.18:07:41::SCWPlatform::Generating the sources  .
+TRACE::2022-04-23.18:07:41::SCWBDomain::Generating boot domain sources.
+TRACE::2022-04-23.18:07:41::SCWBDomain:: Generating the zynqmp_fsbl Application.
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:41::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-04-23.18:07:41::SCWMssOS::No sw design opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::mss does not exists at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::Creating sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::Adding the swdes entry, created swdb /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss with des name /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::updating the scw layer changes to swdes at   /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::Writing mss at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:41::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp
+TRACE::2022-04-23.18:07:41::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:41::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:41::SCWBDomain::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp
+TRACE::2022-04-23.18:07:43::SCWPlatform::Generating sources Done.
+TRACE::2022-04-23.18:07:43::SCWDomain::checking for install qemu data   : 
+TRACE::2022-04-23.18:07:43::SCWDomain:: Using the QEMU Data from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/
+TRACE::2022-04-23.18:07:43::SCWDomain:: Using the QEMU args  from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt
+TRACE::2022-04-23.18:07:43::SCWDomain:: Using the PMUQEMU args from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt
+TRACE::2022-04-23.18:07:43::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:43::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:43::SCWPlatform::Boot application domain added for zynqmp_pmufw
+TRACE::2022-04-23.18:07:43::SCWPlatform::Generating the sources  .
+TRACE::2022-04-23.18:07:43::SCWBDomain::Generating boot domain sources.
+TRACE::2022-04-23.18:07:43::SCWBDomain:: Generating the zynqmp_pmufw Application.
+TRACE::2022-04-23.18:07:43::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:43::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:43::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:43::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-04-23.18:07:43::SCWMssOS::No sw design opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::mss does not exists at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::Creating sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::Adding the swdes entry, created swdb /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss with des name /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::updating the scw layer changes to swdes at   /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::Writing mss at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:43::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp
+TRACE::2022-04-23.18:07:43::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:43::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:43::SCWBDomain::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp
+TRACE::2022-04-23.18:07:44::SCWPlatform::Generating sources Done.
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-04-23.18:07:44::SCWMssOS::No sw design opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::mss exists loading the mss file  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Opened the sw design from mss  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Adding the swdes entry /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss with des name system
+TRACE::2022-04-23.18:07:44::SCWMssOS::updating the scw layer about changes
+TRACE::2022-04-23.18:07:44::SCWMssOS::Opened the sw design.  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::No sw design opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::mss exists loading the mss file  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Opened the sw design from mss  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Adding the swdes entry /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss with des name system_0
+TRACE::2022-04-23.18:07:44::SCWMssOS::updating the scw layer about changes
+TRACE::2022-04-23.18:07:44::SCWMssOS::Opened the sw design.  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynqmp_pmufw",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-04-23.18:07:44::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:44::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynqmp_pmufw",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWDomain::checking for install qemu data   : 
+TRACE::2022-04-23.18:07:44::SCWDomain:: Using the QEMU Data from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/
+TRACE::2022-04-23.18:07:44::SCWDomain:: Using the QEMU args  from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt
+TRACE::2022-04-23.18:07:44::SCWDomain:: Using the PMUQEMU args from install at  : /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:44::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:44::SCWMssOS::No sw design opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::mss does not exists at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Creating sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Adding the swdes entry, created swdb /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss with des name /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::updating the scw layer changes to swdes at   /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Writing mss at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp
+TRACE::2022-04-23.18:07:44::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:44::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-23.18:07:44::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp
+TRACE::2022-04-23.18:07:44::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Adding the swdes entry, mss present, able to open swdb /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss with des name system_1
+TRACE::2022-04-23.18:07:45::SCWMssOS::Writing the mss file completed /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_psu_cortexa53_0",
+			"sysDefaultDom":	"standalone_psu_cortexa53_0",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_psu_cortexa53_0",
+					"domainDispName":	"standalone_psu_cortexa53_0",
+					"domainDesc":	"standalone_psu_cortexa53_0",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/",
+					"pmuQemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"5ff6a914a7dc3cd69f494625140495c0",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-04-23.18:07:45::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-04-23.18:07:45::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2022-04-23.18:07:45::SCWSystem::Checking the domain zynqmp_fsbl
+LOG::2022-04-23.18:07:45::SCWSystem::Doing application build for :  zynqmp_fsbl
+TRACE::2022-04-23.18:07:45::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-04-23.18:07:45::SCWDomain::Skipping the build for domain :  zynqmp_fsbl
+LOG::2022-04-23.18:07:45::SCWSystem::Checking the domain zynqmp_pmufw
+LOG::2022-04-23.18:07:45::SCWSystem::Doing application build for :  zynqmp_pmufw
+TRACE::2022-04-23.18:07:45::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-04-23.18:07:45::SCWDomain::Skipping the build for domain :  zynqmp_pmufw
+LOG::2022-04-23.18:07:45::SCWSystem::Checking the domain standalone_psu_cortexa53_0
+LOG::2022-04-23.18:07:45::SCWSystem::Not a boot domain 
+LOG::2022-04-23.18:07:45::SCWSystem::Started Processing the domain standalone_psu_cortexa53_0
+TRACE::2022-04-23.18:07:45::SCWDomain::Generating domain artifcats
+TRACE::2022-04-23.18:07:45::SCWMssOS::Generating standalone artifcats
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_psu_cortexa53_0/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_psu_cortexa53_0/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp
+TRACE::2022-04-23.18:07:45::SCWMssOS::Mss edits present, copying mssfile into export location /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-04-23.18:07:45::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-04-23.18:07:45::SCWDomain::Skipping the build for domain :  standalone_psu_cortexa53_0
+TRACE::2022-04-23.18:07:45::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying to export directory.
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-04-23.18:07:45::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-04-23.18:07:45::SCWSystem::Completed Processing the domain standalone_psu_cortexa53_0
+LOG::2022-04-23.18:07:45::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2022-04-23.18:07:45::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started preparing the platform 
+TRACE::2022-04-23.18:07:45::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWSystem::dir created 
+TRACE::2022-04-23.18:07:45::SCWSystem::Writing the bif 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started writing the spfm file 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Completed generating the platform
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_psu_cortexa53_0",
+			"sysDefaultDom":	"standalone_psu_cortexa53_0",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_psu_cortexa53_0",
+					"domainDispName":	"standalone_psu_cortexa53_0",
+					"domainDesc":	"standalone_psu_cortexa53_0",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/",
+					"pmuQemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"5ff6a914a7dc3cd69f494625140495c0",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-04-23.18:07:45::SCWPlatform::updated the xpfm file.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_psu_cortexa53_0",
+			"sysDefaultDom":	"standalone_psu_cortexa53_0",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_psu_cortexa53_0",
+					"domainDispName":	"standalone_psu_cortexa53_0",
+					"domainDesc":	"standalone_psu_cortexa53_0",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/",
+					"pmuQemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"5ff6a914a7dc3cd69f494625140495c0",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_psu_cortexa53_0",
+			"sysDefaultDom":	"standalone_psu_cortexa53_0",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_psu_cortexa53_0",
+					"domainDispName":	"standalone_psu_cortexa53_0",
+					"domainDesc":	"standalone_psu_cortexa53_0",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/",
+					"pmuQemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"5ff6a914a7dc3cd69f494625140495c0",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-04-23.18:07:45::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-04-23.18:07:45::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2022-04-23.18:07:45::SCWSystem::Started Processing the domain standalone_psu_cortexa53_0
+TRACE::2022-04-23.18:07:45::SCWDomain::Generating domain artifcats
+TRACE::2022-04-23.18:07:45::SCWMssOS::Generating standalone artifcats
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_psu_cortexa53_0/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt To /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_psu_cortexa53_0/qemu/
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writing the mss file at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp
+TRACE::2022-04-23.18:07:45::SCWMssOS::Mss edits present, copying mssfile into export location /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-04-23.18:07:45::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-04-23.18:07:45::SCWDomain::Building the domain as part of full build :  standalone_psu_cortexa53_0
+TRACE::2022-04-23.18:07:45::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-04-23.18:07:45::SCWMssOS::Copying to export directory.
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-04-23.18:07:45::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-04-23.18:07:45::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-04-23.18:07:45::SCWSystem::Completed Processing the domain standalone_psu_cortexa53_0
+LOG::2022-04-23.18:07:45::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2022-04-23.18:07:45::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started preparing the platform 
+TRACE::2022-04-23.18:07:45::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2022-04-23.18:07:45::SCWSystem::dir created 
+TRACE::2022-04-23.18:07:45::SCWSystem::Writing the bif 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started writing the spfm file 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-04-23.18:07:45::SCWPlatform::Completed generating the platform
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Saving the mss changes /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-23.18:07:45::SCWMssOS::Commit changes completed.
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to open the hw design at /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA given /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA absoulate path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform::DSA directory /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Platform Path /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-04-23.18:07:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-04-23.18:07:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-23.18:07:45::SCWMssOS::Checking the sw design at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWMssOS::DEBUG:  swdes dump  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss|system_1||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_fsbl/zynqmp_fsbl_bsp/system.mss|system||
+/home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/zynqmp_pmufw/zynqmp_pmufw_bsp/system.mss|system_0||
+
+TRACE::2022-04-23.18:07:45::SCWMssOS::Sw design exists and opened at  /home/me/Workspace/Hardware/Vitis/AN831/design_1_wrapper/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/system.mss
+TRACE::2022-04-23.18:07:45::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/me/Workspace/Hardware/Verilog/AN831/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynqMP",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"psu_cortexa53_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP      -Wall -fmessage-length=0 -DARMA53_64 -Os -flto -ffat-lto-objects  ",
+	"pmufwExtraCompilerFlags":	"-MMD -MP      -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v9.2 -mxl-soft-mul -Os -flto -ffat-lto-objects  ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_psu_cortexa53_0",
+			"sysDefaultDom":	"standalone_psu_cortexa53_0",
+			"domains":	[{
+					"domainName":	"zynqmp_fsbl",
+					"domainDispName":	"zynqmp_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"fbe6aabd66bd7dfdad12b3b0490819e0",
+					"compatibleApp":	"zynqmp_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilsecure:4.6", "xilpm:3.5"],
+					"libOptions":	{
+						"standalone":	{
+							"zynqmp_fsbl_bsp":	"true",
+							"libOptionNames":	["zynqmp_fsbl_bsp"]
+						},
+						"xilffs":	{
+							"read_only":	"true",
+							"use_mkfs":	"false",
+							"libOptionNames":	["read_only", "use_mkfs"]
+						},
+						"xilsecure":	{
+							"tpm_support":	"true",
+							"libOptionNames":	["tpm_support"]
+						},
+						"libsContainingOptions":	["standalone", "xilffs", "xilsecure"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"zynqmp_pmufw",
+					"domainDispName":	"zynqmp_pmufw",
+					"domainDesc":	"PMUFW Application BSP - Auto Generated.",
+					"processors":	"psu_pmu_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4f850002cb9b323c43efba0ec56f523e",
+					"compatibleApp":	"zynqmp_pmufw",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilfpga:6.1", "xilsecure:4.6", "xilskey:7.2"],
+					"libOptions":	{
+						"psu_pmu_0":	{
+							"extra_compiler_flags":	"-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns  -Os -flto -ffat-lto-objects",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["psu_pmu_0"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_psu_cortexa53_0",
+					"domainDispName":	"standalone_psu_cortexa53_0",
+					"domainDesc":	"standalone_psu_cortexa53_0",
+					"processors":	"psu_cortexa53_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/",
+					"pmuQemuArgs":	"/tools/Xilinx/Vitis/2021.2/data/emulation/platforms/zynqmp/sw/a53_standalone/qemu/pmu_args.txt",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"5ff6a914a7dc3cd69f494625140495c0",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"64-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-04-23.18:07:45::SCWPlatform::updated the xpfm file.

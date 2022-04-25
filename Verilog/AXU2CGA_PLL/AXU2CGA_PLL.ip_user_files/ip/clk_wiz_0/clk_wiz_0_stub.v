@@ -1,10 +1,10 @@
 // Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2021.2 (lin64) Build 3367213 Tue Oct 19 02:47:39 MDT 2021
-// Date        : Mon Mar 21 21:13:05 2022
+// Date        : Sun Mar 27 10:57:51 2022
 // Host        : ubuntu-me running 64-bit Ubuntu 21.10
-// Command     : write_verilog -force -mode synth_stub
-//               /home/me/Workspace/VHDL/AXU2CGA_PLL/AXU2CGA_PLL.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_stub.v
+// Command     : write_verilog -force -mode synth_stub -rename_top clk_wiz_0 -prefix
+//               clk_wiz_0_ clk_wiz_0_stub.v
 // Design      : clk_wiz_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xczu2cg-sfvc784-1-i

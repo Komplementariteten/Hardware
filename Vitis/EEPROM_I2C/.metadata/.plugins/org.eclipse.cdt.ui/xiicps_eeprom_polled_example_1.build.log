@@ -1,0 +1,24 @@
+19:21:28 **** Incremental Build of configuration Debug for project xiicps_eeprom_polled_example_1 ****
+make all 
+Building file: ../src/xiicps_eeprom_polled_example.c
+Invoking: ARM v8 gcc compiler
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xiicps_eeprom_polled_example.o" -I/home/me/Workspace/Hardware/Vitis/EEPROM_I2C/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/bspinclude/include -MMD -MP -MF"src/xiicps_eeprom_polled_example.d" -MT"src/xiicps_eeprom_polled_example.o" -o "src/xiicps_eeprom_polled_example.o" "../src/xiicps_eeprom_polled_example.c"
+../src/xiicps_eeprom_polled_example.c:582:12: warning: 'FindEepromPageSize' defined but not used [-Wunused-function]
+  582 | static int FindEepromPageSize(u16 EepromAddr, u32 *PageSize_ptr)
+      |            ^~~~~~~~~~~~~~~~~~
+Finished building: ../src/xiicps_eeprom_polled_example.c
+ 
+Building target: xiicps_eeprom_polled_example_1.elf
+Invoking: ARM v8 gcc linker
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L/home/me/Workspace/Hardware/Vitis/EEPROM_I2C/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_domain/bsplib/lib -o "xiicps_eeprom_polled_example_1.elf" ./src/xiicps_eeprom_polled_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: xiicps_eeprom_polled_example_1.elf
+ 
+Invoking: ARM v8 Print Size
+aarch64-none-elf-size xiicps_eeprom_polled_example_1.elf  |tee "xiicps_eeprom_polled_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  42948	   2088	  20924	  65960	  101a8	xiicps_eeprom_polled_example_1.elf
+Finished building: xiicps_eeprom_polled_example_1.elf.size
+ 
+
+19:21:28 Build Finished (took 159ms)
+

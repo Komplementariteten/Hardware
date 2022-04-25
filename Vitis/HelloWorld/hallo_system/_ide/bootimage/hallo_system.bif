@@ -1,0 +1,6 @@
+//arch = zynqmp; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader, destination_cpu = a53-0]/home/me/Workspace/Hardware/Vitis/HelloWorld/design_1_wrapper_1/export/design_1_wrapper_1/sw/design_1_wrapper_1/boot/fsbl.elf
+	[destination_cpu = a53-0]/home/me/Workspace/Hardware/Vitis/HelloWorld/hallo/Debug/hallo.elf
+}
