@@ -1,4 +1,11 @@
-timestamp=[2022-04-23 18:02:10], mode=WORKBENCH_START, duration=0:00:02.786, duration_ms=2786, data={}
-timestamp=[2022-04-23 18:02:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.020, duration_ms=20, data={}
-timestamp=[2022-04-23 18:02:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.251, duration_ms=251, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
-timestamp=[2022-04-23 18:07:49], mode=APP_CREATION, duration=0:00:11.375, duration_ms=11375, data={name=audio_play, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2022-05-07 16:12:00], mode=WORKBENCH_START, duration=0:00:02.607, duration_ms=2607, data={}
+timestamp=[2022-05-07 16:12:01], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.018, duration_ms=18, data={}
+timestamp=[2022-05-07 16:12:01], mode=WORKBENCH_UI_INIT, duration=0:00:00.241, duration_ms=241, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-05-07 16:12:50], mode=APP_CREATION, duration=0:00:11.585, duration_ms=11585, data={name=audio_play, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=audio_wrapper, application_type=application}
+timestamp=[2022-05-07 23:42:47], mode=PLATFORM_GENERATION, duration=0:00:19.049, duration_ms=19049, data={name=audio_wrapper}
+timestamp=[2022-05-07 23:42:51], mode=BUILD, duration=0:00:00.370, duration_ms=370, data={name=audio_play, configuration=Debug, clean_build=false}
+timestamp=[2022-05-07 23:44:30], mode=PLATFORM_GENERATION, duration=0:00:06.900, duration_ms=6900, data={name=audio_wrapper}
+timestamp=[2022-05-07 23:45:19], mode=BUILD, duration=0:00:00.415, duration_ms=415, data={name=audio_play, configuration=Debug, clean_build=false}
+timestamp=[2022-05-07 23:45:39], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=audio_play, configuration=Debug, clean_build=true}
+timestamp=[2022-05-07 23:45:40], mode=BUILD, duration=0:00:00.374, duration_ms=374, data={name=audio_play, configuration=Debug, clean_build=false}
+timestamp=[2022-05-07 23:49:02], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=audio_play, configuration=Debug, clean_build=false}

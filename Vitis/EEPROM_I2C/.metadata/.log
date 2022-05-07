@@ -22016,3 +22016,51 @@ Don't forget to modify blconfig.h to reflect the physical address where your SRE
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-04-23 12:38:16.461
 !MESSAGE Indexed 'xaxidma_example_simple_poll_1' (1 sources, 51 headers) in 0.103 sec: 1,352 declarations; 2,046 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+!SESSION 2022-05-07 16:09:20.350 -----------------------------------------------
+eclipse.buildId=2021.2
+java.version=11.0.11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/me/Workspace/Hardware/Vitis/EEPROM_I2C -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2022-05-07 16:09:22.607
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-05-07 16:09:25.300
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-05-07 16:09:25.300
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-05-07 16:09:25.301
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.792
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-33
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.792
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-4: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.793
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.795
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-33
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.795
+!MESSAGE XSCT Command: [setws /home/me/Workspace/Hardware/Vitis/EEPROM_I2C], Thread: Thread-33
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.830
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-4: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.830
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.830
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-4: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.830
+!MESSAGE XSCT command with result: [setws /home/me/Workspace/Hardware/Vitis/EEPROM_I2C], Result: [null, ]. Thread: Thread-33
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-05-07 16:09:25.831
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, /tools/Xilinx/Vitis/2021.2/data]. Thread: Worker-4: Initializing s/w repositories

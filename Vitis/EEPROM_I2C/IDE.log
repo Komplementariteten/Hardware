@@ -199,3 +199,11 @@ con
 12:22:09 INFO  : Platform 'design_1_wrapper_1' is added to custom repositories.
 12:38:16 INFO  : Example project xaxidma_example_simple_poll_1 has been created successfully.
 12:38:51 INFO  : Result from executing command 'removePlatformRepo': 
+16:09:23 INFO  : Launching XSCT server: xsct -n  -interactive /home/me/Workspace/Hardware/Vitis/EEPROM_I2C/temp_xsdb_launch_script.tcl
+16:09:24 INFO  : Platform repository initialization has completed.
+16:09:24 INFO  : Registering command handlers for Vitis TCF services
+16:09:25 INFO  : XSCT server has started successfully.
+16:09:25 INFO  : Successfully done setting XSCT server connection channel  
+16:09:25 INFO  : plnx-install-location is set to ''
+16:09:25 INFO  : Successfully done setting workspace for the tool. 
+16:09:25 INFO  : Successfully done query RDI_DATADIR 

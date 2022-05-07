@@ -3,7 +3,7 @@
 	<name>audio_play</name>
 	<comment>Created by Vitis v2021.2</comment>
 	<projects>
-		<project>design_1_wrapper</project>
+		<project>audio_wrapper</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -39,11 +39,10 @@
           <tags>persp.newWizSC:com.xilinx.sdx.npw.revisedLibraryWizard</tags>
           <tags>persp.newWizSC:com.xilinx.sdx.npw.revisedKernelWizard</tags>
           <tags>persp.newWizSC:com.xilinx.sdx.npw.revisedPlatformWizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="__zlaIbXLEeyW_N4vaoLbgw" selectedElement="__zlaIrXLEeyW_N4vaoLbgw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="__zlaIbXLEeyW_N4vaoLbgw" selectedElement="__zmBMLXLEeyW_N4vaoLbgw" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="__zlaIrXLEeyW_N4vaoLbgw" containerData="2500" selectedElement="__zlaI7XLEeyW_N4vaoLbgw">
               <children xsi:type="basic:PartStack" xmi:id="__zlaI7XLEeyW_N4vaoLbgw" elementId="com.xilinx.ide.projectExplorerMStack" containerData="5000" selectedElement="__zlaJLXLEeyW_N4vaoLbgw">
                 <tags>active</tags>
-                <tags>noFocus</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="__zlaJLXLEeyW_N4vaoLbgw" elementId="com.xilinx.ide.projectExplorer" ref="__zghoLXLEeyW_N4vaoLbgw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Xilinx</tags>
@@ -408,6 +407,9 @@
         <tags>menuContribution:popup</tags>
       </menus>
       <menus xsi:type="menu:PopupMenu" xmi:id="_Mj88IMLvEey_KNlqIdbLpA" elementId="com.xilinx.ide.projectExplorer#PopupMenu">
+        <tags>menuContribution:popup</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_TKAuAM4PEeygH4iS7c-smw" elementId="com.xilinx.ide.projectExplorer#PopupMenu">
         <tags>menuContribution:popup</tags>
       </menus>
       <toolbar xmi:id="__22JgbXLEeyW_N4vaoLbgw" elementId="com.xilinx.ide.projectExplorer"/>
@@ -3327,11 +3329,12 @@
   <addons xmi:id="__rWEN7XLEeyW_N4vaoLbgw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="__rWEOLXLEeyW_N4vaoLbgw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="__raVkLXLEeyW_N4vaoLbgw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_Srm6wM4PEeygH4iS7c-smw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="__sMYsLXLEeyW_N4vaoLbgw" elementId="com.xilinx.sdk.targetmanager.ui.addon.view" contributionURI="bundleclass://com.xilinx.sdk.targetmanager/com.xilinx.sdk.targetmanager.ui.ViewVisibilityAdapterAddon"/>
   <addons xmi:id="_fwD-8MLfEey06olb-kNj0g" elementId="com.xilinx.sdk.targetmanager.ui.addon.view" contributionURI="bundleclass://com.xilinx.sdk.targetmanager/com.xilinx.sdk.targetmanager.ui.ViewVisibilityAdapterAddon"/>
   <addons xmi:id="_rUqFscLuEey_KNlqIdbLpA" elementId="com.xilinx.sdk.targetmanager.ui.addon.view" contributionURI="bundleclass://com.xilinx.sdk.targetmanager/com.xilinx.sdk.targetmanager.ui.ViewVisibilityAdapterAddon"/>
+  <addons xmi:id="_SrxS0M4PEeygH4iS7c-smw" elementId="com.xilinx.sdk.targetmanager.ui.addon.view" contributionURI="bundleclass://com.xilinx.sdk.targetmanager/com.xilinx.sdk.targetmanager.ui.ViewVisibilityAdapterAddon"/>
   <categories xmi:id="__rkGkLXLEeyW_N4vaoLbgw" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="__rkGkbXLEeyW_N4vaoLbgw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
   <categories xmi:id="__rkGkrXLEeyW_N4vaoLbgw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
