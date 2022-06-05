@@ -3,3 +3,7 @@
 **/*.sim/
 **/*.hw/
 **/*.gen/
+.metadata/
+**/.metadata/
+*.log
+*.xsa

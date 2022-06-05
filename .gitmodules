@@ -1,0 +1,3 @@
+[submodule "software-prototypes"]
+	path = software-prototypes
+	url = https://github.com/Xilinx-Wiki-Projects/software-prototypes.git
