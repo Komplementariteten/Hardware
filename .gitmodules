@@ -1,3 +1,6 @@
 [submodule "software-prototypes"]
 	path = software-prototypes
 	url = https://github.com/Xilinx-Wiki-Projects/software-prototypes.git
+[submodule "SITLINV-FPGA_Board"]
+	path = SITLINV-FPGA_Board
+	url = https://github.com/TommyE79/SITLINV-FPGA_Board
